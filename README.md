@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valantis-siomos&label=Profile%20views&color=0e75b6&style=flat" alt="valantis-siomos" /> </p>
 
-- 🌱 I’m currently learning **redux**
+- 🌱 I’m currently learning **Redux,Tailwind,Vite**
 
 - 📫 How to reach me **siopis2008@hotmail.com**
 
