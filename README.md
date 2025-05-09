@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valantis-siomos&label=Profile%20views&color=0e75b6&style=flat" alt="valantis-siomos" /> </p>
 
-- 🌱 I’m currently learning **MySQL,PHP,MQL4,C++,unreal engine 5**
+- 🌱 I’m currently learning **MySQL,PHP,MQL4,C++,unreal engine 5, Laravel**
 
 - 📫 How to reach me **siopis2008@hotmail.com**
 
